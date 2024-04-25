@@ -6,7 +6,8 @@
 ---
 
 ### Задание 2
-1. [конфиг файл](exercise_2/haproxy.cfg)
+
+1. команда в cron ```45 19 * * * /home/chika/script2.sh >> /var/log/backup.log 2>&1```
 2. [перенаправление запросов](img/exercise_2.png)
 
 ---
